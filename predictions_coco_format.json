@@ -1,0 +1,9 @@
+[
+    {
+        "image_id": int,
+        "category_id": int,
+        "bbox": [x, y, width, height],
+        "score": float
+    },
+    ...
+]
